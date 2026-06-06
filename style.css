@@ -37,7 +37,7 @@ body{
 .addInput>input{
     border: solid 1px rgb(241, 236, 236);
     border-radius: 5px;
-    background-color:lightgrey;
+    background-color:#F8FAFF;
     font-size: x-large;
     
 }
