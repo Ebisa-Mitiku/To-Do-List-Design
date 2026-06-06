@@ -4,7 +4,7 @@ p{
 }
 body{
     
-    background-color:lightgrey;
+    background-color:#ECF3FF;
     padding: 10px 100px 100px 10px;  
 }
 .container{
@@ -12,6 +12,7 @@ body{
     padding: 20px;
     display: grid;
    justify-content: center;
+ 
    align-items: center;
 
 }
